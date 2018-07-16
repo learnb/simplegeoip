@@ -2,6 +2,8 @@
 
 Uses geoip2 package to read coordinates from a MaxMind GeoLite2 database.
 
+For more information about geoip2 see their documentation: https://geoip2.readthedocs.io/en/latest/
+
 ## Dependencies
 
 geoip2
