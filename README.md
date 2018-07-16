@@ -14,7 +14,7 @@ $ pip install geoip2
 ```
 git clone https://github.com/learnb/simplegeoip.git
 cd simplegeoip
-python setup.py
+pip install -r requirements.txt
 ```
 
 ## Basic Usage
