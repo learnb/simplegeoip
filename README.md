@@ -16,6 +16,13 @@ git clone https://github.com/learnb/simplegeoip.git
 cd simplegeoip
 pip install -r requirements.txt
 ```
+## Downloading GeoLite2 Database
+
+To download the database to the current directory:
+
+```
+sh ./download_geo_ip_db.sh
+```
 
 ## Basic Usage
 
