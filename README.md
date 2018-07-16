@@ -31,7 +31,7 @@ import os
 import simplegeoip
 import geoip2.database
 
-_ip = "128.182.160.117"
+_ip = "51.233.60.75"
 
 coords = simplegeoip.lookupIP(_ip)
 ```
