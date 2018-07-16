@@ -9,6 +9,13 @@ geoip2
 ```
 $ pip install geoip2
 ```
+## Installing
+
+```
+git clone https://github.com/learnb/simplegeoip.git
+cd simplegeoip
+python setup.py
+```
 
 ## Basic Usage
 
